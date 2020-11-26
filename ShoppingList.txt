@@ -6,3 +6,5 @@ Lychee
 Apple 
 Eggs
 Milk
+Ham
+Cheese
