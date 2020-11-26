@@ -5,3 +5,4 @@ Juice
 Lychee 
 Apple 
 Eggs
+Milk
